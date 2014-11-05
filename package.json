@@ -19,9 +19,6 @@
     "grunt-phpdocumentor": "^0.4.1",
     "grunt-sftp-deploy": "^0.1.0",
     "grunt-ssh-deploy": "^0.1.6",
-    "grunt-text-replace": "^0.3.12",
-    "karma": "^0.12.16",
-    "karma-chrome-launcher": "^0.1.4",
-    "karma-jasmine": "^0.1.5"
+    "grunt-text-replace": "^0.3.12"
   }
 }

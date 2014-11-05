@@ -1,0 +1,5 @@
+127.0.0.1 - - [05/Nov/2014:11:01:04 +0000] "GET / HTTP/1.1" 200 1884 "-" "curl/7.21.4 (x86_64-apple-darwin12.2.0) libcurl/7.21.4 OpenSSL/0.9.8z zlib/1.2.5 libidn/1.20"
+127.0.0.1 - - [05/Nov/2014:11:01:04 +0000] "GET / HTTP/1.1" 200 1884 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10"
+127.0.0.1 - - [05/Nov/2014:11:01:04 +0000] "GET /icons/script.gif HTTP/1.1" 200 242 "http://ninjasanta/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10"
+127.0.0.1 - - [05/Nov/2014:11:01:05 +0000] "GET /icons/dir.gif HTTP/1.1" 200 225 "http://ninjasanta/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10"
+127.0.0.1 - - [05/Nov/2014:11:01:06 +0000] "GET /icons/forward.gif HTTP/1.1" 200 219 "http://ninjasanta/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10"
